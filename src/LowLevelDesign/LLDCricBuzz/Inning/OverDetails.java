@@ -1,7 +1,7 @@
-package LowLevelDesign.LLDCricbuzz.Inning;
+package LowLevelDesign.LLDCricBuzz.Inning;
 
-import LowLevelDesign.LLDCricBuzz.Match.Team.Player.PlayerDetails;
-import LowLevelDesign.LLDCricBuzz.Match.Team.Team;
+import LowLevelDesign.LLDCricBuzz.Team.Player.PlayerDetails;
+import LowLevelDesign.LLDCricBuzz.Team.Team;
 
 import java.util.ArrayList;
 import java.util.List;

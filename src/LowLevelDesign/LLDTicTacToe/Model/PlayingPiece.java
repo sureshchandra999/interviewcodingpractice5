@@ -1,4 +1,4 @@
-package LLDTicTacToe.Model;
+package LowLevelDesign.LLDTicTacToe.Model;
 
 public class PlayingPiece {
 

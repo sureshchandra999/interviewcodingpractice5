@@ -1,4 +1,4 @@
-package LowLevelDesign.LLDCricbuzz.Team.Player;
+package LowLevelDesign.LLDCricBuzz.Team.Player;
 
 public enum PlayerType {
 

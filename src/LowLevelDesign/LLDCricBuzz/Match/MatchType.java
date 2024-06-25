@@ -1,4 +1,4 @@
-package LowLevelDesign.LLDCricbuzz;
+package LowLevelDesign.LLDCricBuzz.Match;
 
 public interface MatchType {
     public int noOfOvers();

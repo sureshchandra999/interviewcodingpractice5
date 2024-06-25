@@ -1,4 +1,4 @@
-package LowLevelDesign.LLDCricbuzz.Inning;
+package LowLevelDesign.LLDCricBuzz.Inning;
 
 public enum BallType {
 

@@ -1,7 +1,7 @@
-package LLDTicTacToe.Model;
+package LowLevelDesign.LLDTicTacToe.Model;
 
-import LLDTicTacToe.Model.PlayingPiece;
-import com.sun.tools.javac.util.Pair;
+import LowLevelDesign.LLDTicTacToe.Model.PlayingPiece;
+import javafx.util.Pair;
 
 import java.util.ArrayList;
 import java.util.List;

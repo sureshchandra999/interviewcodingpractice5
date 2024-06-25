@@ -15,7 +15,7 @@ public class Expense {
     List<Split> splitDetails = new ArrayList<>();
 
     public Expense(String expenseId, double expenseAmount, String description,
-                   User paidByUser, ExpenseSplitType splitType, List<Split> splitDetails) {
+                   User paidByUser, ExpenseSplitType spliType, List<Split> splitDetails) {
 
         this.expenseId = expenseId;
         this.expenseAmount = expenseAmount;

@@ -1,11 +1,11 @@
-package LLDTicTacToe;
+package LowLevelDesign.LLDTicTacToe;
 
-import LLDTicTacToe.Model.Board;
-import LLDTicTacToe.Model.PieceType;
-import LLDTicTacToe.Model.Player;
-import LLDTicTacToe.Model.PlayingPieceO;
-import LLDTicTacToe.Model.PlayingPieceX;
-import com.sun.tools.javac.util.Pair;
+import LowLevelDesign.LLDTicTacToe.Model.Board;
+import LowLevelDesign.LLDTicTacToe.Model.PieceType;
+import LowLevelDesign.LLDTicTacToe.Model.Player;
+import LowLevelDesign.LLDTicTacToe.Model.PlayingPieceO;
+import LowLevelDesign.LLDTicTacToe.Model.PlayingPieceX;
+import javafx.util.Pair;
 
 import java.util.Deque;
 import java.util.LinkedList;

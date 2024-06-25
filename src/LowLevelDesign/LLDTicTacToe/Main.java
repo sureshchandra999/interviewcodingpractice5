@@ -1,4 +1,4 @@
-package LLDTicTacToe;
+package LowLevelDesign.LLDTicTacToe;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package LowLevelDesign.LLDCricbuzz;
+package LowLevelDesign.LLDCricBuzz.Match;
 
 public class T20MatchType implements MatchType{
 

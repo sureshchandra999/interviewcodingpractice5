@@ -1,6 +1,6 @@
-package LowLevelDesign.LLDCricbuzz.Team.Player.Score;
+package LowLevelDesign.LLDCricBuzz.Team.Player.Score;
 
-import LowLevelDesign.LLDCricBuzz.Match.Team.Wicket;
+import LowLevelDesign.LLDCricBuzz.Team.Wicket;
 
 public class BattingScoreCard {
     public int totalRuns;
